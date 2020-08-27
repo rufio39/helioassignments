@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+1. what is a promise?
+a promise is a function that delivers a single value down the road in my code as a resolve or reject.
+
+2.how do we use a promise?
+we use it inside of a function, then call that function later to show the value stored with the promise. 
+
+3. what are the benefits of using promises.
+helps make code easier to read.
+can help resolve errors easier.
+=======
+1. what is a promise?
+a promise is a function that delivers a single value down the road in my code as a resolve or reject.
+
+2.how do we use a promise?
+we use it inside of a function, then call that function later to show the value stored with the promise. 
+
+3. what are the benefits of using promises.
+helps make code easier to read.
+can help resolve errors easier.
+>>>>>>> 64c7c72f04403c1740e3e1858a9f65b8f96a0d95
+and can help with the flow of the code as well. 

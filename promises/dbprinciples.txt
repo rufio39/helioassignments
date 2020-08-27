@@ -1,0 +1,26 @@
+1. what is a database? why is a database necessary?
+    it is an organized collection of data. it allows for easier processing of data querying. which allows us to 
+    make changes,update, and delete data as needed
+
+2. what can be stored in a database?
+    they are designed to store information such as texts, images, articles, and user info. along with other information.
+
+3. what types of databases are there?
+    structured, unstructured, and historic.
+
+4. why would i use one over the other?
+    if im storing current data i would use the structured. if im using old data i would use the historic.
+
+5. what is a query?
+    it is a way to request specific information from ma database.
+
+6. what is an encryption? why is it important on the database level?
+    it ciphers the data so that it cant be read unless it is first decrypted. this is important because then we can store username
+    and passwords safely and not worry about the database being hacked and the users information at risk.
+
+7. what is object permanence?
+    it means that an object still exists even if its hidden. 
+
+8. where can your database live?
+    it can live anywhere. you can rent databases and even create your own if you wanted. you can create rooms for them that are cool 
+    vented to allow then servers to cool down.          
